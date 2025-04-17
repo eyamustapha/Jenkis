@@ -8,10 +8,11 @@ class JenkisApplicationTests {
 
 	@Test
 	void contextLoads() {
-	   system.out.println("it is a test class")	;
-	   assertEquals(expectes:true,actual:true);
+	   System.out.println("it is a test class")	;
+	   assertEquals(true,true);
 
 
 	}
 
 }
+
