@@ -8,7 +8,7 @@ public class JenkisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkisApplication.class, args);
-		system.out.println('It is a continuos integration job ')
+		System.out.println('It is a continuos integration job ')
 	}
 
 }
